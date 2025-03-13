@@ -21,23 +21,23 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="mailto:ваша_почта@example.com" className={styles.card}>
+          <a href="mailto:skam@example.com" className={styles.card}>
             <h2>Контакты &rarr;</h2>
             <p>Свяжитесь со мной по электронной почте.</p>
           </a>
 
-          <a href="https://github.com/ваш_профиль" className={styles.card}>
+          <a href="https://github.com/" className={styles.card}>
             <h2>GitHub &rarr;</h2>
             <p>Посмотрите мои проекты и репозитории на GitHub.</p>
           </a>
 
-          <a href="https://linkedin.com/in/ваш_профиль" className={styles.card}>
+          <a href="https://linkedin.com/" className={styles.card}>
             <h2>LinkedIn &rarr;</h2>
             <p>Свяжитесь со мной в LinkedIn.</p>
           </a>
 
           <a
-            href="https://ваш-сайт.com"
+            href="https://skam.com"
             className={styles.card}
           >
             <h2>Мой сайт &rarr;</h2>
